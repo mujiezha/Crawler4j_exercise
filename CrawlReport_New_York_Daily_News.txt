@@ -1,0 +1,33 @@
+Name: Mujie ZhangUSC ID: 2621330761News site crawled:  New_York_Daily_News
+
+Fetch Statistics 
+================
+#fetches attempted : 19995
+#fetches succeeded : 19641
+#fetches failed or aborted : 354 
+
+Outgoing URLs:
+================
+Total URLs extracted:  1971684
+# unique URLs extracted:  154542
+# unique URLs within your news website: 43645
+# unique URLs outside the news website: 110897
+
+status code:
+================
+200 OK :  19641
+301 Moved Permanently :  315
+302 Found is a common way of performing URL redirection :  1
+404 Not Found :  35
+410 Gone:  3
+
+File Sizes:===========
+< 1KB  :  2
+1KB ~ <10KB  :  1
+10KB ~ <100KB  :  16877
+100KB ~ <1MB  :  2761
+>= 1MB  :  0
+
+Content Types:==============
+text/html  :  19636
+text/xml  :  5
